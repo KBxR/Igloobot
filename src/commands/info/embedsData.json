@@ -1,0 +1,1242 @@
+{
+  "neowaxbloom": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Album",
+              "inline": false
+          },
+          {
+              "name": "Characters in this:",
+              "value": "`xiangjiao`, `lummo`, `melonlanterngirlschoir`, `usohachi`, `yomi`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Ne\u014d Wax Bloom (Ne\u014d Pale Shrine)",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#heading=h.p9yman5g2mp9",
+      "description": "When a pair of giant eyeballs crash into the strange, misty world of Mamu, the mysterious forces that govern nature itself are disrupted. A life cycle of transforming creatures is thrown off balance, and the odd looking inhabitants of Mamu are forced to adapt to this calamity. These inhabitants include Yomi - a multicoloured pom-pom monk; Lummo - a wise blind witch training a band of melon coloured babies; and Uso - a sneaky bug thief hidden in a green cloak - as well as many others. As their respective stories begin to interlock, the mysteries surrounding the giant eyeballs are slowly revealed."
+  },
+  "solarchurch": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "ARG Album",
+              "inline": false
+          },
+          {
+              "name": "Characters in this:",
+              "value": "`yomi`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Solar Church",
+      "url": "https://twitter.com/iglooghost/status/928308012720193537?lang=en",
+      "description": "Ambient Sounds from Mamu recorded by Yomi."
+  },
+  "iglooghost": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Species",
+              "inline": false
+          },
+          {
+              "name": "Other Info:",
+              "value": "They are the final form in the life cycle of an Iglooghost",
+              "inline": false
+          }
+      ],
+      "color": "#007bff",
+      "title": "Iglooghost",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.j2ytdg7blkw9",
+      "description": "An Iglooghost is a being that exists for a few seconds, creates a levitating object like a fruit or something, then disappears."
+  },
+  "lummo": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Character",
+              "inline": false
+          },
+          {
+              "name": "Species:",
+              "value": "`witch`",
+              "inline": false
+          }
+      ],
+      "color": "#f36eff",
+      "title": "Lummo",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.sei36nnh1o93",
+      "description": "Lummo is a blind witch who never dies. He is trying to teach the Melon Lantern Girl"
+  },
+  "melonlanterngirlschoir": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Character",
+              "inline": false
+          },
+          {
+              "name": "Species:",
+              "value": "`witch`",
+              "inline": false
+          }
+      ],
+      "color": "#000000",
+      "title": "Melon Lantern Girl",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.uli1t672rexm",
+      "description": "A group of little witches who sing songs. They are trying very hard to learn an Ancient Hymn."
+  },
+  "mogu": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Character",
+              "inline": false
+          },
+          {
+              "name": "Species:",
+              "value": "`xao`",
+              "inline": false
+          },
+          {
+              "name": "Made Of:",
+              "value": "Steel",
+              "inline": false
+          }
+      ],
+      "color": "#000000",
+      "title": "Mogu <:Steel:616358733416497162>",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.wbhimym085yp",
+      "description": "Mogu is a moody steel racer from the future who is the head of a gang called the "
+  },
+  "nama": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Character",
+              "inline": false
+          },
+          {
+              "name": "Species:",
+              "value": "`monk`",
+              "inline": false
+          },
+          {
+              "name": "Other Info [CLEAR TAMEI/STEEL MOGU COMIC SPOILER]:",
+              "value": "||At the end of the CT/SM comic, Nama sees a hole in Mamu\\",
+              "inline": false
+          }
+      ],
+      "color": "#abf8ff",
+      "title": "Nama <:Nama:658014737174626334>",
+      "url": "",
+      "description": ""
+  },
+  "neogumflower": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Species",
+              "inline": false
+          },
+          {
+              "name": "\\u200B",
+              "value": "If you know more about Ne\u014d Gum Flower, please fill out the form given to you by using `>ac`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Ne\u014d Gum Flower",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.j0yvsc35lxm6",
+      "description": "Not much is known about Ne\u014d Gum Flower."
+  },
+  "tamei": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Character",
+              "inline": false
+          },
+          {
+              "name": "Species:",
+              "value": "`monk`",
+              "inline": false
+          },
+          {
+              "name": "Rank:",
+              "value": "`gridgod`",
+              "inline": false
+          },
+          {
+              "name": "Other Info:",
+              "value": "Tamei is a baby version of the Grid G\u00f6d seen in Ne\u014d Wax Bloom",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Tamei <:Clear:616358750143381524>",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.mw8u5umh0rct",
+      "description": "Tamei is a young gifted see-through god-in-training. He resents his fate of one day becoming a Grid G\u00f6d with his other cohorts."
+  },
+  "usohachi": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Character",
+              "inline": false
+          },
+          {
+              "name": "Species:",
+              "value": "Bug",
+              "inline": false
+          }
+      ],
+      "color": "#00b017",
+      "title": "Usohachi (Uso)",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.anrlr64yu0b1",
+      "description": "Uso is a mysterious cloaked bug boy who steals fruit & lives in caves made of chalk."
+  },
+  "xiangjiao": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Character",
+              "inline": false
+          },
+          {
+              "name": "Species:",
+              "value": "`worm`",
+              "inline": false
+          }
+      ],
+      "color": "#75aaff",
+      "title": "Xiangjiao <:xin:658016934129827844>",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.vwog29y0s6ii",
+      "description": "Xiangjiao is a witch who"
+  },
+  "yomi": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Character",
+              "inline": false
+          },
+          {
+              "name": "Species:",
+              "value": "`monk`",
+              "inline": false
+          },
+          {
+              "name": "Made Of:",
+              "value": "Multi-Coloured Fog",
+              "inline": false
+          }
+      ],
+      "color": "#ffff00",
+      "title": "Yomi <:Yomi:628668871980744704>",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.au4o1gimkulx",
+      "description": "Yomi is a monk from a secret forest portal. He wants to protect nature at any cost"
+  },
+  "auo": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Daosing Rod",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Auo\u1d39\u1d52\u1d48\u1d49\u02e1\u2078",
+      "url": "https://www.leimusic.xyz/",
+      "description": "A Daosing Rod/Instrument talked about [here](https://www.leimusic.xyz/)"
+  },
+  "daosingrods": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Instrument",
+              "inline": false
+          },
+          {
+              "name": "Additional Info:",
+              "value": "Daosing Rods are antennae-like instruments that are physically attracted to the pull of Lei Lines. This technology has be adapted, modified and reverse-engineered throughout the eons - however the fundamental physical model has remained constant since as long as the Heliocene. Despite constant innovation - all Daosing Rods to some degree inadvertently affect their surroundings.",
+              "inline": false
+          },
+          {
+              "name": "\\u200B",
+              "value": "If you know more about Daosing Rods, please fill out the form given to you by using `>ac`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Daosing Rods",
+      "url": "https://www.leimusic.xyz/",
+      "description": "A type of instrument used in Igloos upcoming album"
+  },
+  "guao": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Daosing Rod",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Guao\u1d39\u1d52\u1d48\u1d49\u02e1\u00b2\u00b9 ",
+      "url": "https://www.leimusic.xyz/",
+      "description": "A Daosing Rod/Instrument talked about [here](https://www.leimusic.xyz/)"
+  },
+  "newsylph": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Daosing Rod",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "NewSylph\u1d39\u1d52\u1d48\u1d49\u02e1\u00b9 ",
+      "url": "https://www.leimusic.xyz/",
+      "description": "A Daosing Rod/Instrument talked about [here](https://www.leimusic.xyz/)"
+  },
+  "chinesenuyr": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "EP",
+              "inline": false
+          },
+          {
+              "name": "Characters in this:",
+              "value": "`xiangjiao`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Chinese Nu Yr",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#heading=h.4lslksfe9uno",
+      "description": "A gelatinous worm-shaped creature who wears a witch hat called Xiangjiao. They are really sad because their existence consists of infinitely being blasted through endless wormholes into different worlds that don"
+  },
+  "cleartameisteelmogu": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Double EP",
+              "inline": false
+          },
+          {
+              "name": "Characters in this:",
+              "value": "`tamei`, `mogu`, `nama`, `yomi`",
+              "inline": false
+          },
+          {
+              "name": "Species In This:",
+              "value": "`xao`, `monk`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Clear Tamei / Steel Mogu",
+      "url": "http://exclaim.ca/music/article/iglooghost_tries_to_explain_the_bonkers_worlds_of_the_clear_tamei_and_steel_mogu_eps",
+      "description": ""
+  },
+  "littlegrids": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "EP",
+              "inline": false
+          },
+          {
+              "name": "Characters in this:",
+              "value": "`xiangjiao`, `lummo`, `melonlanterngirlschoir`, `usohachi`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Little Grids",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#heading=h.icbi1acz2rhq",
+      "description": "Little Grids is sorta like a little stopgap and prelude to Ne\u014d Wax Bloom."
+  },
+  "heliocene": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Era",
+              "inline": false
+          },
+          {
+              "name": "Albums/EPs/Songs in this era:",
+              "value": "LP2, Amu, `eoesong`",
+              "inline": false
+          },
+          {
+              "name": "\\u200B",
+              "value": "If you know more about the Heliocene era, please fill out the form given to you by using `>ac`",
+              "inline": false
+          }
+      ],
+      "color": "#feb0ff",
+      "title": "Heliocene",
+      "url": "https://www.leimusic.xyz/",
+      "description": "This is the current era of the Iglooghost universe"
+  },
+  "paleo": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Era",
+              "inline": false
+          },
+          {
+              "name": "Albums/EP\\",
+              "value": "`cleartameisteelmogu`",
+              "inline": false
+          },
+          {
+              "name": "Worlds that have been around in this era",
+              "value": "`mamu`",
+              "inline": false
+          },
+          {
+              "name": "\\u200B",
+              "value": "If you know more about the P\u00e5leo era, please fill out the form given to you by using `>ac`",
+              "inline": false
+          }
+      ],
+      "color": "#feb0ff",
+      "title": "P\u00e5leo",
+      "url": "",
+      "description": "Not much is known about the P\u00e5leo era."
+  },
+  "amulang": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Language",
+              "inline": false
+          },
+          {
+              "name": "Places that speak this",
+              "value": "`amuearth`",
+              "inline": false
+          },
+          {
+              "name": "Characters/Species who speak this:",
+              "value": "Unknown",
+              "inline": false
+          }
+      ],
+      "color": "#5cbeff",
+      "title": "Amu Language",
+      "url": "https://www.youtube.com/watch?v=-Drym71SeOY",
+      "description": "The language in Amu has been around since before XYZ in September 2019 and was used on the Gloo Merch in December of the same year."
+  },
+  "ancientsymbols": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Ancient Symbols",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.w6wfvmv2r2vs",
+      "description": "One use of the Ancient Symbols language is used to send the eyes that fell out of the Grid G\u00f6d"
+  },
+  "mamunese": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#fff1cc",
+      "title": "Mamunese",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.4l6gkafy9oyg",
+      "description": "Mamunese is the language used in Neo Wax Bloom and Clear Tamei EP and is the only language so far that we have an alphabet for."
+  },
+  "xaoese": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#750000",
+      "title": "Xao",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.x3vxmzcp4sa",
+      "description": "Xao"
+  },
+  "blackmoreveil": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Location",
+              "inline": false
+          },
+          {
+              "name": "Additional Info:",
+              "value": "Lei Music has rarely left this vauge geographic Circle which goes from here to `bodminmoor`",
+              "inline": false
+          },
+          {
+              "name": "\\u200B",
+              "value": "If you know more about Blackmore Veil, please fill out the form given to you by using `>ac`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Blackmore Veil",
+      "url": "https://www.leimusic.xyz/",
+      "description": "A new locationed mentioned [here](https://www.leimusic.xyz/)"
+  },
+  "bodminmoor": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Location",
+              "inline": false
+          },
+          {
+              "name": "Additional Info:",
+              "value": "Lei Music has rarely left this vauge geographic Circle which goes from here to `blackmoreveil`",
+              "inline": false
+          },
+          {
+              "name": "\\u200B",
+              "value": "If you know more about Bodmin M\u26aer, please fill out the form given to you by using `>ac`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Bodmin M\u26aer",
+      "url": "https://www.leimusic.xyz/",
+      "description": "A new locationed mentioned [here](https://www.leimusic.xyz/)"
+  },
+  "memmabay": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Memma Bay",
+      "url": "",
+      "description": "Not a lot is known about Memma Bay before the release of LP2."
+  },
+  "moorlands": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Location",
+              "inline": false
+          },
+          {
+              "name": "Additional Info:",
+              "value": "The m\u26aerlands are probed by organic satellite-like beings called Celles, that whir and scan the expanses like drones. These lifeforms are not the same as the entities summoned by Lei Music, nor are they affected in any way by it. Colloquially referred to as \u2018scouts\u2019, \u2018drifters\u2019, and \u2018lookers\u2019",
+              "inline": false
+          },
+          {
+              "name": "\\u200B",
+              "value": "If you know more about The M\u26aerlands, please fill out the form given to you by using `>ac`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "The M\u26aerlands",
+      "url": "https://www.leimusic.xyz/",
+      "description": "A new locationed mentioned [here](https://www.leimusic.xyz/)"
+  },
+  "gridgod": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Rank",
+              "inline": false
+          },
+          {
+              "name": "Characters with this rank:",
+              "value": "`tamei`",
+              "inline": false
+          }
+      ],
+      "color": "#ff0000",
+      "title": "Grid G\u00f6d",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.rj9meitl3xmx",
+      "description": "The God of Mamu, he governs the life cycle of Iglooghosts and was responsible for the life cycle freezing when his eyes fell out."
+  },
+  "chinchou": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Song",
+              "inline": false
+          },
+          {
+              "name": "Characters in this:",
+              "value": "`xiangjiao`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Chinchou",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.sgh4nvz4hb8w",
+      "description": "Xiangjiao keeps getting tangled up in black & white grid fabric & wriggling out."
+  },
+  "eoesong": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Song",
+              "inline": false
+          },
+          {
+              "name": "Relevant Info:",
+              "value": "`eoe`",
+              "inline": false
+          }
+      ],
+      "color": "#feb0ff",
+      "title": "E\u0153 (Disk\u2022Initiate)",
+      "url": "https://docs.google.com/document/d/1oNeZXZuhya2xZkM-gyYYQPy624DjcnYe7pwQUIJPrHg/edit#heading=h.fxieiva0df7r",
+      "description": "This track features multiple audio cues that reference specific points in the March 2020 summoning as it is meant to be a direct audio recording of that event"
+  },
+  "goldcoat": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Gold Coat",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.tjikrh26z7g4",
+      "description": "Xiangjiao is super sad and trying to navigate out of a golden world fabric."
+  },
+  "goldtea": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Gold Tea",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.n89jr312ylv4",
+      "description": "Usohachi, a teenage bug bandit who wears a cool black coat, sipping golden tea whilst nimbly freerunning along pink cliffsides."
+  },
+  "meimodesong": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Song",
+              "inline": false
+          },
+          {
+              "name": "Characters in this:",
+              "value": "`tamei`, `yomi`, `nama`",
+              "inline": false
+          },
+          {
+              "name": "Species In This:",
+              "value": "`xao`, `monk`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Mei Mode",
+      "url": "",
+      "description": "Xao Void Goon"
+  },
+  "mlgcsong": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Melon Lantern Girl",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.xv6sdq1xx3b8",
+      "description": "Lummo attempting to teach a gang of half witted witch children (Melon Lantern Girl"
+  },
+  "peanutchoker": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Peanut Choker",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.bipdk8lgppt6",
+      "description": "Xiangjiao being launched through a tiresome void of peanut rain."
+  },
+  "shrinehacker": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Song",
+              "inline": false
+          },
+          {
+              "name": "Characters in this:",
+              "value": "`tamei`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Shrine Hacker",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.nqw6r6drajj2",
+      "description": "A sad little see-thru Prince (Tamei) is evolving into a giant God Head (Grid G\u00f6d)."
+  },
+  "solarblade": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "S\u014dlar Blade",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.1t1nw4iju7j7",
+      "description": "Usohachi, a bug boy, is stealing fruit and investigating a series of mysterious portals. Gazing inside one of them, his eyes meet with Yomi, a monk made of multi-coloured fog. Alarmed, Yomi leaps out of the temporal rift and begins chasing Usohachi across a mountian range made of chalk."
+  },
+  "whitegum": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "White Gum",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.q1gnfvf7h2hd",
+      "description": "A monk called Yomi & a little bug in a cloak called Usohachi have a huge fight. They"
+  },
+  "xiangjiaosong": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Xiangjiao",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.fw0afmvi86tm",
+      "description": "Xiangjiao zooming very fast through a stupid nonsensical space full of floating peaches & a lot of steam, which is very much getting int he way of looking for the next portal to escape this particularly troublesom place."
+  },
+  "yomisuite": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Yomi (Suite)",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#heading=h.6tqddhgygp06",
+      "description": ""
+  },
+  "amu": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#00ffd0",
+      "title": "Amu <:AMU:734891422708138034>",
+      "url": "https://genius.com/Iglooghost-amu-lyrics",
+      "description": "Amu"
+  },
+  "eye": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Eye",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.f79mksjsfv0v",
+      "description": "An Iglooghost turns into an eyeball after they disappear, they are known to float around but little else is known of what they do."
+  },
+  "monk": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Species",
+              "inline": false
+          },
+          {
+              "name": "Characters of this Species:",
+              "value": "`yomi`, `nama`, `tamei`",
+              "inline": false
+          }
+      ],
+      "color": "#00e5ff",
+      "title": "Monk",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.w5kuek4mprya",
+      "description": "Monks want to protect nature at all costs."
+  },
+  "witch": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#000000",
+      "title": "Witch",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.ku0hat1z9dpn",
+      "description": "They sing songs and Ancient Spells."
+  },
+  "worm": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#fcff66",
+      "title": "Worm",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.l0e6hx9vyzpn",
+      "description": "A Witch that has been frozen mid transformation, as they were transforming into an Iglooghost."
+  },
+  "xao": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Xao",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.wijv0rnjc9qo",
+      "description": "Xao are these weird, shadowy, little beings that are born when Iglooghosts are created. They do not like being alive and want to kill the Grid God so no more Xao"
+  },
+  "yemmo": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#00ff21",
+      "title": "Yemmo <:734891182651605135:734901037365854208>",
+      "url": "https://genius.com/Iglooghost-amu-lyrics",
+      "description": "Currently unkown what Yemmo"
+  },
+  "amusummoning": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Summoning",
+              "inline": false
+          },
+          {
+              "name": "When:",
+              "value": "1912",
+              "inline": false
+          },
+          {
+              "name": "Relevant Info:",
+              "value": "`amu`",
+              "inline": false
+          }
+      ],
+      "color": "#feb0ff",
+      "title": "Amu Summoning",
+      "url": "https://docs.google.com/document/d/1oNeZXZuhya2xZkM-gyYYQPy624DjcnYe7pwQUIJPrHg/edit#heading=h.b9c1guv5mt3p",
+      "description": "[Page 1](https://cdn.discordapp.com/attachments/702851979176837151/781475438962016256/PAGE1.png) [Page 2](https://cdn.discordapp.com/attachments/702851979176837151/781475520578977822/PAGE2.png)"
+  },
+  "eoe": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Summoning",
+              "inline": false
+          },
+          {
+              "name": "When:",
+              "value": "March 2020",
+              "inline": false
+          },
+          {
+              "name": "Relevant Info:",
+              "value": "`eoesong`",
+              "inline": false
+          }
+      ],
+      "color": "#feb0ff",
+      "title": "E\u0153 (Disk\u2022Initiate)",
+      "url": "https://docs.google.com/document/d/1oNeZXZuhya2xZkM-gyYYQPy624DjcnYe7pwQUIJPrHg/edit#heading=h.b9c1guv5mt3p",
+      "description": "Info for this can be found [here](https://docs.google.com/document/d/1oNeZXZuhya2xZkM-gyYYQPy624DjcnYe7pwQUIJPrHg/edit#heading=h.b9c1guv5mt3p) or [here](https://www.leimusic.xyz/)"
+  },
+  "ms2001": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "\\u200B",
+              "value": "The summoning actually seemed to be going quite well until a solar eclipse occurred giving a premature end to the ceremony.",
+              "inline": false
+          }
+      ],
+      "color": "#feb0ff",
+      "title": "Millennium Summon 2001",
+      "url": "https://docs.google.com/document/d/1oNeZXZuhya2xZkM-gyYYQPy624DjcnYe7pwQUIJPrHg/edit#heading=h.3kqler5lbvqu",
+      "description": ""
+  },
+  "ancienthymn": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#f36eff",
+      "title": "Ancient Hymn (Ancient Superpower)",
+      "url": "",
+      "description": "The Ancient Hymn is what Lummo is trying to teach the Melon Lantern Girl Choir, to revive the eyes that fell out of the Grid God in Neo Wax Bloom."
+  },
+  "leimusic": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Term",
+              "inline": false
+          },
+          {
+              "name": "Species/Characters relating to this:",
+              "value": "`amu`, `clunkingbody`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Lei Music",
+      "url": "https://www.leimusic.xyz/",
+      "description": "S type of music based around specific combinations of sounds & airbound emissions that are intended to summon an entity. Tearing strange beings into the human world from invisible zones, instrument-players gather to perform screeching, clattering compositional experiments. The entities\u2019 appearances will differ and shift vastly depending on the instrumentation, timbre, tempo etc. Their visual forms are theorised to be of near-infinite variations. When Lei Music is performed in a safe & intermediate condition - the calls, whirs & howls of the entities will be adapted as a functioning element of the piece."
+  },
+  "meimode": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Term",
+              "inline": false
+          },
+          {
+              "name": "Species relating to this:",
+              "value": "`xao`, `wu`",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Mei Mode",
+      "url": "",
+      "description": "[Click Here For Description](https://pastebin.com/bk9xEyK0)"
+  },
+  "solarbladeattack": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ffffff",
+      "title": "Solar Blade",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.1t1nw4iju7j7",
+      "description": "Name of an attack Yomi can use."
+  },
+  "clunkingbody": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "Unknown",
+              "inline": false
+          },
+          {
+              "name": "More info:",
+              "value": "They spew and screech out code",
+              "inline": false
+          },
+          {
+              "name": "\\u200B",
+              "value": "If you know more about Clunking Body, please fill out the form given to you by using `>ac`",
+              "inline": false
+          }
+      ],
+      "color": "#abf8ff",
+      "title": "Clunking Body",
+      "url": "https://www.leimusic.xyz/",
+      "description": "Currently unknown what Clunking Body is. We will find out more soon."
+  },
+  "meru": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ff99e0",
+      "title": "Meru <:MERU:734894251862786118>",
+      "url": "https://youtu.be/-Drym71SeOY",
+      "description": "Meru survive off vibrations in caves by sticking their big finger in the walls. Not much else is known about Meru, When Iglooghost 2 comes out we should learn more about them."
+  },
+  "oau": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#b00017",
+      "title": "Oau <:OAU:734898078137712703> ",
+      "url": "https://youtu.be/-Drym71SeOY",
+      "description": "Currently unknown what Oau is. When Iglooghost 2 comes out we should learn more about them."
+  },
+  "plu": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#ff0019",
+      "title": "Plu",
+      "url": "https://youtu.be/-Drym71SeOY",
+      "description": "Currently unknown what Plu is, it is seen almost following Igloo and Amu throught the Amu Music Video. When Iglooghost 2 comes out we should learn more about them."
+  },
+  "wu": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#abf8ff",
+      "title": "Wu",
+      "url": "https://youtu.be/-Drym71SeOY",
+      "description": "Currently unknown what Wu is. When Iglooghost 2 comes out we should learn more about them."
+  },
+  "amuearth": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [],
+      "color": "#5cbeff",
+      "title": "",
+      "url": "https://www.youtube.com/watch?v=-Drym71SeOY",
+      "description": ""
+  },
+  "mamu": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "World",
+              "inline": false
+          },
+          {
+              "name": "Characters/Species Here:",
+              "value": "`tamei`, `gridgod`, `usohachi`, `eyes`, `melonlanterngirlschoir`, `xiangjiao`, `nama`",
+              "inline": false
+          },
+          {
+              "name": "Language Spoken:",
+              "value": "`mamunese`",
+              "inline": false
+          }
+      ],
+      "color": "#feb0ff",
+      "title": "Mamu",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.ewl9xd5g5odg",
+      "description": "A pink misted, white chalky mountainous place, with floating fruit."
+  },
+  "meruworld": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "World",
+              "inline": false
+          },
+          {
+              "name": "Characters/Species Here:",
+              "value": "`meru`",
+              "inline": false
+          },
+          {
+              "name": "Language Spoken:",
+              "value": "Unkown",
+              "inline": false
+          }
+      ],
+      "color": "#ffffff",
+      "title": "Meru World",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.fqazqb2vgh6e",
+      "description": "Not much is known about Meru World, If you know more about MeruWorld, please fill out the form given to you by using `>ac`"
+  },
+  "xaovoidcity": {
+      "author": {
+          "name": "Igloo Bot",
+          "iconURL": "https://cdn.discordapp.com/attachments/702851979176837151/728548501658533908/botpfp.png"
+      },
+      "fields": [
+          {
+              "name": "Type:",
+              "value": "World",
+              "inline": false
+          },
+          {
+              "name": "Characters/Species Here:",
+              "value": "`xao`, `mogu`",
+              "inline": false
+          },
+          {
+              "name": "Language Spoken:",
+              "value": "`xaoese`",
+              "inline": false
+          }
+      ],
+      "color": "#750000",
+      "title": "Xao Void City",
+      "url": "https://docs.google.com/document/d/1nXuJLGfcQB5INB-nOupr6bJ0lV5UnYBpFjlQuepBTMU/edit#bookmark=id.o72k6zhyd8v8",
+      "description": "Not much is known about Xao Void City, If you know more about Xao Void City, please fill out the form given to you by using `>ac`"
+  }
+}

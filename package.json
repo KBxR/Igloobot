@@ -1,0 +1,42 @@
+{
+  "name": "igloobot",
+  "version": "1.0.0",
+  "description": "Discord.JS bot for Iglooghost information",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBxR/igloobot.git"
+  },
+  "keywords": [
+    "discord",
+    "iglooghot",
+    "discord.js"
+  ],
+  "author": "Sickle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KBxR/igloobot/issues"
+  },
+  "homepage": "https://github.com/KBxR/igloobot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "module-alias": "^2.2.3",
+    "path": "^0.12.7",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "_moduleAliases": {
+    "@root": ".",
+    "@commands": "./src/commands",
+    "@events": "./src/events",
+    "@utils": "./src/utils",
+    "@config": "./src/config",
+    "@database": "./src/database"
+  }
+}
