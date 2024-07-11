@@ -14,5 +14,11 @@ module.exports = {
         } catch (error) {
             console.error('Error setting bot status:', error);
         }
+
+        // Activity Loop
+        setInterval(() => {
+            const randomActivity = activities[Math.floor(Math.random() * activities.length)];
+            client.user.setActivity(randomActivity, { type: ActivityType.Listening });
+        }, 1800000); 
     },
 };
